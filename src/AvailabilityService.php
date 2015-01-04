@@ -8,7 +8,7 @@
 
 	License: Attribution-ShareAlike 4.0 International
 */
-namespace HelgeSverre\DomainAvailability;
+namespace Cwd\DomainAvailability;
 
 use Exception;
 

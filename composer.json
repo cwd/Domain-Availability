@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "HelgeSverre\\DomainAvailability\\": "src/"
+      "Cwd\\DomainAvailability\\": "src/"
     }
   }
 }
